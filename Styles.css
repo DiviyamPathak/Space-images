@@ -1,0 +1,11 @@
+.img {
+    height: 25cm;
+    width: 25cm;
+    padding: 2cm;
+    margin: 0.6cm;
+}
+.input{
+    width: 100pc;
+    height: 52pc;
+    background-color: aquamarine;
+}
