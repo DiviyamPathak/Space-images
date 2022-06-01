@@ -3,7 +3,7 @@ let button = document.getElementById("search");
 
 
 
-function searchfunction(_inputval){
+function searchfunction(){
     let input = document.getElementById("inputi")
     let inputval = input.value
     let url = "https://images-api.nasa.gov/search?description=" + "{" + inputval + "}"
